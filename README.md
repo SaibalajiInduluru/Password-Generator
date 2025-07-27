@@ -24,8 +24,9 @@ CyberVault is a sleek, secure, and stylish password generator built entirely wit
 
 ## 📸 Preview
 
-![CyberVault Screenshot](preview.png)  
-*(Add a screenshot of your app named `preview.png` in the project root directory)*
+![CyberVault Screenshot]
+<img width="1000" height="864" alt="image" src="https://github.com/user-attachments/assets/673d0c38-27ea-4e45-8876-81857acc5db0" />
+
 
 ## 🛠️ Tech Stack
 
